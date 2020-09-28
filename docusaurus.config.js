@@ -33,6 +33,11 @@ module.exports = {
           label: 'Taro相关',
           position: 'left',
         },
+        {
+          href: 'https://github.com/cathe-zhang/plop-cn-docs',
+          label: 'PLOP中文文档',
+          position: 'right',
+        },
         {to: 'blog', label: '博客', position: 'left'},
         {
           href: 'https://github.com/cathe-zhang/my-blog-docusaurus',
